@@ -1,5 +1,11 @@
 # Task Board test
 
+QUESTA è UNA NUOVA VERSIONE &#x20;
+
+
+
+
+
 Thanks to the Task Board, task management becomes more transparent and accessible. Every user can have an overview of their responsibilities and contribute to work in a coordinated and accountable manner, supported by tools designed to simplify daily operations.
 
 questo documento è stato aggiornato
